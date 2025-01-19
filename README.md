@@ -99,4 +99,4 @@ This project is currently not licensed and is intended for personal use only.
 
 ## Contact
 
-For any questions or feedback, please contact [your name] at [your email address]. (Optional)
+For any questions or feedback, please contact Jamie at dev@jamify.uk
