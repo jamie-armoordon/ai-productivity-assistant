@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add these to your existing styles */
+.email-container {
+  @apply bg-white rounded-lg p-6 shadow-sm;
+}
+
+.email-container p {
+  @apply mb-4;
+}
+
+.email-container ul {
+  @apply mb-4 ml-6 list-disc;
+}
+
+.email-container li {
+  @apply mb-2;
+}
